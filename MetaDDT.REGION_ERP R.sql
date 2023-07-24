@@ -1,0 +1,3 @@
+------------outlet
+SELECT * FROM 
+outlet;  
